@@ -1,0 +1,25 @@
+#container {
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    padding: 15px 0px;
+
+}
+
+button {
+    padding: 10px 5px;
+    margin: 5px;
+}
+
+#Button-1 {
+    background-color: green;
+}
+
+#Button-2 {
+    background-color: red;
+}
+
+#Button-3 {
+    background-color: blue;
+}
